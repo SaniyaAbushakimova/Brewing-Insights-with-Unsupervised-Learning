@@ -1,6 +1,10 @@
-# Brewing-Insights-with-Unsupervised-Learning
+## Project Description
 
-`analysis_and_report.ipynb` outline:
+In the world of beer, certain varieties stand out due to their versatile flavors, making them popular choices among consumers. A business owner aiming to meet popular demand needs to curate a simple yet appealing range of beers. However, given the overwhelming number of beer styles available, it is impractical to include every type in the inventory.
+
+This project utilizes **clustering analysis** to assist the business owner in identifying a representative sample of beers. By examining various features of different beers (e.g. Astringency, Bitter, Alcohol etc), the analysis seeks to group them into distinct clusters, enabling the owner to select a diverse yet manageable assortment for their inventory.
+
+## `analysis_and_report.ipynb` outline:
 
 1. Introduction
 2. Dataset Discussion
@@ -28,6 +32,6 @@
 
 ## Other details
 
-`beer_profile_and_ratings.csv` -- raw dataset
+`beer_profile_and_ratings.csv` -- raw dataset (retreived from: https://www.kaggle.com/datasets/ruthgn/beer-profile-and-ratings-data-set/data)
 
 `presentation.pdf` -- a short presentation with the project overview
