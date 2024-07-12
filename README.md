@@ -4,8 +4,9 @@ In the world of beer, certain varieties stand out due to their versatile flavors
 
 This project utilizes **clustering analysis** to assist the business owner in identifying a representative sample of beers. By examining various features of different beers (e.g. Astringency, Bitter, Alcohol etc), the analysis seeks to group them into distinct clusters, enabling the owner to select a diverse yet manageable assortment for their inventory.
 
-## `analysis_and_report.ipynb` outline:
+## Project outline:
 
+`analysis_and_report.ipynb`
 1. Introduction
 2. Dataset Discussion
 3. Dataset Cleaning and Exploration
