@@ -16,15 +16,15 @@
 
 ## Unsupervised Learning tools used in this project:
 
-Hopkin's Statistic
-t-SNE plot
-Elbow plot
-Average Silhouette score
-Silhouette plot
-Cluster Sorted Similarity Matrix
-K-Medoids Clustering
-Hierarchical Agglomerative Clustering (HAC) with Single, Complete, Average, Ward's linkages
-Dendrogram
+- Hopkin's Statistic
+- t-SNE plot
+- Elbow plot
+- Average Silhouette score
+- Silhouette plot
+- Cluster Sorted Similarity Matrix
+- K-Medoids Clustering
+- Hierarchical Agglomerative Clustering (HAC) with Single, Complete, Average, Ward's linkages
+- Dendrogram
 
 ## Other details
 
