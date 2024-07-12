@@ -1,4 +1,4 @@
-Project completed on May 7, 2024.
+Project completed on May 7, 2024. 
 
 ## Project Description
 
