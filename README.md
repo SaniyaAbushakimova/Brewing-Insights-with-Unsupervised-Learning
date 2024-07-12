@@ -33,6 +33,6 @@ This project utilizes **clustering analysis** to assist the business owner in id
 
 ## Other details
 
-`beer_profile_and_ratings.csv` -- raw dataset (retreived from: https://www.kaggle.com/datasets/ruthgn/beer-profile-and-ratings-data-set/data)
+`beer_profile_and_ratings.csv` -- raw dataset (retreived from [Kaggle](https://www.kaggle.com/datasets/ruthgn/beer-profile-and-ratings-data-set/data))
 
 `presentation.pdf` -- a short presentation with the project overview
