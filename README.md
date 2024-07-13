@@ -1,5 +1,5 @@
 Project completed on May 7, 2024. 
-
+ 
 ## Project description
 
 In the world of beer, certain varieties stand out due to their versatile flavors, making them popular choices among consumers. A business owner aiming to meet popular demand needs to curate a simple yet appealing range of beers. However, given the overwhelming number of beer styles available, it is impractical to include every type in the inventory.
